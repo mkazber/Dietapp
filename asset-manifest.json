@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.31690426.css",
-    "main.js": "/static/js/main.e1c516dd.js",
-    "static/media/delete-icon.svg": "/static/media/delete-icon.24c1f1aea276b0009c4d8ac8b9c8334d.svg",
-    "index.html": "/index.html",
-    "main.31690426.css.map": "/static/css/main.31690426.css.map",
-    "main.e1c516dd.js.map": "/static/js/main.e1c516dd.js.map"
+    "main.css": "/Dietapp/static/css/main.31690426.css",
+    "main.js": "/Dietapp/static/js/main.fc191e88.js",
+    "static/media/delete-icon.svg": "/Dietapp/static/media/delete-icon.24c1f1aea276b0009c4d8ac8b9c8334d.svg",
+    "index.html": "/Dietapp/index.html",
+    "main.31690426.css.map": "/Dietapp/static/css/main.31690426.css.map",
+    "main.fc191e88.js.map": "/Dietapp/static/js/main.fc191e88.js.map"
   },
   "entrypoints": [
     "static/css/main.31690426.css",
-    "static/js/main.e1c516dd.js"
+    "static/js/main.fc191e88.js"
   ]
 }
